@@ -26,4 +26,10 @@
 
 <br>
 
-[hijnshp@gmail.com](mailto:hijnshp@gmail.com) · [경력과 케이스 스터디](https://jiny-log.vercel.app/ko/about)
+**만드는 것** &nbsp; TypeScript · React · Next.js · Astro
+**검증하는 것** &nbsp; Vitest · Playwright · axe-core · Zod
+**거쳐온 것** &nbsp; Docker · GitLab CI · Jenkins · SonarQube
+
+<br>
+
+[hijnshp@gmail.com](mailto:hijnshp@gmail.com) &nbsp;·&nbsp; [소개](https://jiny-log.vercel.app/ko/about) &nbsp;·&nbsp; [케이스 스터디](https://jiny-log.vercel.app/ko/work)
