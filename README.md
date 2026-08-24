@@ -26,9 +26,9 @@
 
 <br>
 
-**만드는 것** &nbsp;&nbsp; TypeScript · React · Next.js · Astro<br>
-**검증하는 것** &nbsp;&nbsp; Vitest · Playwright · axe-core · Zod<br>
-**거쳐온 것** &nbsp;&nbsp; Docker · GitLab CI · Jenkins · SonarQube
+**만드는 것** &nbsp; `TypeScript` `React` `Next.js` `Astro`<br>
+**검증하는 것** &nbsp; `Vitest` `Playwright` `axe-core` `Zod`<br>
+**거쳐온 것** &nbsp; `Docker` `GitLab CI` `Jenkins` `SonarQube`
 
 <br>
 
