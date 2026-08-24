@@ -12,10 +12,11 @@ React·TypeScript 프로젝트를 **읽기 전용으로** 스캔해 컴포넌트
 유닛 테스트 1,090개가 전부 통과하는 상태에서 실제로 렌더되는 컴포넌트가 75.3%뿐이라는 것을 발견하고, 그 조사 도구 자체를 게이트로 만들어 91.8%까지 올렸습니다.
 같은 엔진을 MCP 서버로 감싸 AI 에이전트도 쓸 수 있게 했습니다.
 
-**[jiny-log](https://github.com/lunashp/jiny-log)**
+**[jiny-log](https://jiny-log.vercel.app)** · [저장소](https://github.com/lunashp/jiny-log)
 케이스 스터디와 트러블슈팅 기록을 남기는 블로그입니다. Astro 7 · 한국어/영어.
 Next.js로 만들었다가 클라이언트 컴포넌트를 전부 제거해도 JS 138KB가 남는 것을 실측하고 Astro로 옮겼습니다(현재 2.2KB).
 번들 예산·접근성·시각 회귀를 **CI 하드 게이트**로 묶어, 예산을 올려서 통과시키지 않습니다.
+검색엔진과 AI 어시스턴트가 **인용하기 좋은 형태**로 발행하는 것을 목표로, 글마다 그 자체로 완결된 요약을 본문 최상단에 둡니다. 원문 마크다운과 `llms.txt`를 별도 라우트로 서빙해 크롤러가 렌더링 없이 읽을 수 있습니다.
 
 **[blog-publisher](https://github.com/lunashp/blog-publisher)**
 위 블로그에 글을 발행하는 MCP 서버입니다. 초안이 기본값이고, GitHub 커밋을 거쳐 배포됩니다.
