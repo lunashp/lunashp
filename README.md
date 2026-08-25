@@ -32,4 +32,4 @@
 
 <br>
 
-[hijnshp@gmail.com](mailto:hijnshp@gmail.com) &nbsp;·&nbsp; [소개](https://jiny-log.vercel.app/ko/about) &nbsp;·&nbsp; [케이스 스터디](https://jiny-log.vercel.app/ko/work)
+[hijnshp@gmail.com](mailto:hijnshp@gmail.com) &nbsp;·&nbsp; [포트폴리오]([https://jiny-log.vercel.app/ko/about](https://luna-portfolio-lunashp.vercel.app) &nbsp;·&nbsp; [블로그](https://jiny-log.vercel.app/ko/work)
